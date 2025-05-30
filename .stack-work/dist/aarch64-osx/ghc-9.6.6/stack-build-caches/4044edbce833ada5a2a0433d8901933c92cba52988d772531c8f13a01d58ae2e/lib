@@ -1,0 +1,16 @@
+/Users/serzhanator/Documents/repos/minesweeper/CHANGELOG.md:
+  hash: a5e55e7d90e232610d56dd8455f828a119106eb1d4a9a8e182539fad2503ebcf
+/Users/serzhanator/Documents/repos/minesweeper/README.md:
+  hash: 5245207831a570af8e9eb9bd47a2a2db6d55f13848ce5133e87a69de34c6b25c
+/Users/serzhanator/Documents/repos/minesweeper/minesweeper.cabal:
+  hash: 093b879195ae6eaeb013252ed072c6523d82d3f3780e496fdaa56b59a3f373f1
+/Users/serzhanator/Documents/repos/minesweeper/src/Cell.hs:
+  hash: f9c022c81f7541446722ec48a5402fa0695c48437e923608a6534ee40cdf868b
+/Users/serzhanator/Documents/repos/minesweeper/src/Game.hs:
+  hash: 6befba6b24535b52fed4a26f7d18f271f47167f912e16d5375e72599258120be
+/Users/serzhanator/Documents/repos/minesweeper/src/Grid/Core.hs:
+  hash: 9288cfb16b975ee3e053caefb2ba22a075775a0b77936bb194702f66dab47576
+/Users/serzhanator/Documents/repos/minesweeper/src/Grid/Generation.hs:
+  hash: 030bd0b9a9acfbffc3b7dbe07d864ad791009980894c42735f277a6b4b15e54f
+/Users/serzhanator/Documents/repos/minesweeper/src/Grid/Operation.hs:
+  hash: 4aa13a80661d59372003fb85722d318559e71a339b95f2e244462f860c989c6f
